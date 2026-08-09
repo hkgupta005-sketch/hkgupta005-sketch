@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 190" width="480" height="190" role="img" aria-label="hkgupta005-sketch top languages"><title>hkgupta005-sketch top languages</title><defs><style type="text/css"><![CDATA[
+text{font-family:'Segoe UI',Arial,sans-serif}
+@keyframes popIn{0%{opacity:0;transform:translateY(10px) scale(.85)}100%{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes dash{from{stroke-dashoffset:var(--len)}to{stroke-dashoffset:var(--off)}}
+.pop{opacity:0;animation:popIn .5s ease forwards;transform-box:fill-box;transform-origin:center}
+.fade{opacity:0;animation:fadeIn .6s ease forwards}
+.ring{animation:dash 1.4s ease .3s forwards}
+]]></style><linearGradient id="gg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#F5B800"/><stop offset="100%" stop-color="#7C3AED"/></linearGradient></defs><rect width="480" height="190" rx="14" fill="#0B0910" stroke="url(#gg)" stroke-width="1.5"/><text x="24" y="34" font-size="16" font-weight="700" fill="#F5B800" class="fade" style="animation-delay:.05s">TOP LANGUAGES</text><line x1="24" y1="46" x2="456" y2="46" stroke="#2a2020" stroke-width="1"/><g class="fade" style="animation-delay:0.15s"><text x="24" y="66" font-size="12.5" fill="#E8E6EA">No public repos yet</text><rect x="150" y="55" width="292" height="12" rx="6" fill="#1b1618"/><rect x="150" y="55" width="292.0" height="12" rx="6" fill="#F5B800"/><text x="456" y="66" font-size="11.5" fill="#8b8690" text-anchor="end">100%</text></g></svg>
