@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./banner.svg" width="100%"/>
@@ -77,42 +78,26 @@ AI & Data Science developer interested in building practical applications using 
 ### 🚀 Featured Projects
 
 **🔎 AI Lecture Retrieval System**
+
 RAG-based AI system that finds where a topic is discussed inside course lectures.
+
 `Whisper` `FFmpeg` `BGE-M3` `RAG` `Ollama` `LLM`
+
 Pipeline: `Course Videos → Audio Processing → Whisper Transcription → Chunks → BGE-M3 Embeddings → Semantic Retrieval → RAG → LLM Answer → Video + Timestamp`
 
 **📄 AI Interview & Resume Coach**
+
 AI-powered platform for resume analysis and interview preparation.
+
 `PDF` `ATS` `RAG` `LLM` `AI Agents`
+
 Features: Resume Analysis · ATS Score · RAG Chat · Interview Preparation
 
 **📊 Machine Learning Projects**
+
 Hands-on machine learning projects involving preprocessing, feature engineering, regression, classification, evaluation and data analysis.
+
 `Python` `Scikit-Learn` `Pandas` `NumPy`
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img src="./stats.svg" width="90%"/>
-
-<br/><br/>
-
-<img src="./langs.svg" width="90%"/>
-
-<br/><br/>
-
-<img src="./trophies.svg" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hkgupta005-sketch&hide_border=true&background=0A0A0A&stroke=F5B800&ring=F5B800&fire=F5B800&currStreakLabel=C9C9D0&sideLabels=C9C9D0&dates=7C3AED"/>
-
-</div>
-
-> `stats.svg`, `langs.svg` and `trophies.svg` are generated from your real GitHub data by the `update-stats.yml` Action (repos, stars, followers — no invented numbers) and refresh automatically every day. The streak card above is still a live third-party widget since streak data needs GitHub's contribution graph.
 
 ---
 
@@ -122,8 +107,7 @@ Hands-on machine learning projects involving preprocessing, feature engineering,
 <img src="https://raw.githubusercontent.com/hkgupta005-sketch/hkgupta005-sketch/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> Needs the `snake.yml` GitHub Action (given earlier) run at least once to exist.
-
+> Needs the `snake.yml` GitHub Action to run successfully at least once before the animation appears.
 
 ---
 
@@ -153,7 +137,6 @@ Hands-on machine learning projects involving preprocessing, feature engineering,
 <a href="https://github.com/hkgupta005-sketch"><img src="https://img.shields.io/badge/GitHub-F5B800?style=for-the-badge&logo=github&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/harshit-kumar-gupta-15b173326/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hkgupta005@gmail.com"><img src="https://img.shields.io/badge/Email-F5B800?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-
 
 </div>
 
